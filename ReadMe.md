@@ -3,14 +3,15 @@ Repair website using HTML, PHP, and SQL
 
 How to view Website
 
-Download repository using Git or Github 
+1. Download repository using Git or Github 
 
-Download Xampp for Windows (or for your platform)
+2. Download Xampp for Windows (or for your platform)
 
-Run Apache & MySQL when Xampp window is open
+3. Run Apache & MySQL when Xampp window is open
 
-Viewing the website:
 
-Type localhost into a browser
+Viewing the website
 
-Click html folder
+1. Type localhost into a browser
+
+2. Click html folder
